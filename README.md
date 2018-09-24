@@ -1,6 +1,6 @@
 [guide](https://jekyllrb.com/docs/structure/)
-
 ```
+
 ├── _config.yml
 ├── _data
 |   └── members.yml
@@ -23,3 +23,30 @@
 ├── .jekyll-metadata
 └── index.html # can also be
 ```
+
+---
+
+*  CLI Usage: [docs](https://jekyllrb.com/docs/usage/)
+*  Filters: https://jekyllrb.com/docs/liquid/filters/
+*  Potential Themes
+    *  [forty-jekyll](https://github.com/andrewbanchich/forty-jekyll-theme)
+    *  [editorial-jekyll](https://github.com/andrewbanchich/editorial-jekyll-theme)
+
+---
+
+### Structure Brainstorm
+
+Drawing inspiration from: [carworklog.com](https://www.carworklog.com/)
+
+**Primary Pages**
+*  Home
+    *  navigation
+*  Maintenance Logs
+    *  Entries / Posts <list>
+*  Modification Logs
+    *  Entries / Posts
+*  About / Model Details
+*  Pictures
+*  Resources
+*  DIY Guides
+    *  tags: maintenace, general, pictures, etc.

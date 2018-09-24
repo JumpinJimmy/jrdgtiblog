@@ -1,1 +1,14 @@
+# Site Settings
 theme: jekyll-theme-cayman
+paginate: 5
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      author: "James D."
+
+plugins:
+  - jekyll-paginate

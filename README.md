@@ -28,6 +28,8 @@
 
 *  CLI Usage: [docs](https://jekyllrb.com/docs/usage/)
 *  Filters: https://jekyllrb.com/docs/liquid/filters/
+*  `bundle exec jekyll serve` - for gemfile 
+*  `jekyll s` - without gemfile
 *  Potential Themes
     *  [forty-jekyll](https://github.com/andrewbanchich/forty-jekyll-theme)
     *  [editorial-jekyll](https://github.com/andrewbanchich/editorial-jekyll-theme)

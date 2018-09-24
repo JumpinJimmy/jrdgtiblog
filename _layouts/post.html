@@ -5,3 +5,12 @@ layout: default
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 {{ content }}
+
+<ul>
+    {% if page.tags == null %} Not tagged. 
+    {% else %} 
+     {% for tag in page.tags %}
+      <li><a href="/tags#{{ tag | slugify }}-ref"> {{ tag | lowercase}}</a></li>
+     {% endfor %}
+   {% endif %}
+</ul>

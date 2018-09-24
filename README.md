@@ -41,6 +41,7 @@ Drawing inspiration from: [carworklog.com](https://www.carworklog.com/)
 **Primary Pages**
 *  Home
     *  navigation
+        *  nav docs: [here](https://jekyllrb.com/tutorials/navigation/)
 *  Maintenance Logs
     *  Entries / Posts <list>
 *  Modification Logs

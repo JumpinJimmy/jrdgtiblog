@@ -28,7 +28,7 @@
 
 *  CLI Usage: [docs](https://jekyllrb.com/docs/usage/)
 *  Filters: https://jekyllrb.com/docs/liquid/filters/
-*  `bundle exec jekyll serve` - for gemfile 
+*  `bundle exec jekyll serve` - for gemfile
 *  `jekyll s` - without gemfile
 *  `bundle update` - to retrieve the latest gemfiles / plugins defined in gemfile
 *  Potential Themes
@@ -42,14 +42,14 @@
 Drawing inspiration from: [carworklog.com](https://www.carworklog.com/)
 
 **Primary Pages**
-*  Home
+*  Home <page>
     *  navigation
         *  nav docs: [here](https://jekyllrb.com/tutorials/navigation/)
-*  Maintenance Logs
+*  Maintenance Logs <page>
     *  Entries / Posts <list>
 *  Modification Logs
     *  Entries / Posts
-*  About / Model Details
+*  About / Model Details <page>
 *  Pictures
 *  Resources
 *  DIY Guides

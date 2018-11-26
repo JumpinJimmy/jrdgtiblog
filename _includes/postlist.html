@@ -1,8 +1,12 @@
 <h2>Latest Posts</h2>
+<div class="posts">
 <ul>
   {% for post in site.posts %}
     <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <article>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    </article>
     </li>
   {% endfor %}
 </ul>
+</div>
